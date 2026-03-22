@@ -1,0 +1,41 @@
+{
+  "GLR Grid Slide": {
+    "prefix": "glr-grid",
+    "body": [
+      "---",
+      "",
+      "# ${1:TITEL HIER}",
+      "",
+      "<div class=\"columns\">",
+      "",
+      "<div>",
+      "",
+      "## ${2:Subkop}",
+      "${3:Tekst inhoud...}",
+      "",
+      "</div>",
+      "",
+      "<div>",
+      "",
+      "![width:100% rounded](${4:images/image.png})",
+      "",
+      "</div>",
+      "",
+      "</div>"
+    ],
+    "description": "Voegt een standaard GLR 2-koloms slide toe"
+  },
+  "GLR Chapter": {
+    "prefix": "glr-chapter",
+    "body": [
+      "---",
+      "",
+      "",
+      "![bg cover](${1:images/achtergrond.jpg})",
+      "",
+      "# ${2:HOOFDSTUK TITEL}",
+      ""
+    ],
+    "description": "Nieuwe hoofdstuk slide"
+  }
+}
