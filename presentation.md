@@ -7,16 +7,17 @@ size: 16:9
 
 <!-- _class: logo-slide -->
 
-<img class="animate__animated animate__rubberBand" width="400" src="images/image70.png" />
+<img class="animate__animated animate__rubberBand animate__slow animate__infinite" width="400" src="images/image70.png" />
 
-![bg cover](images/image11.png)
+![bg cover brightness:0.5](images/image11.png)
 
 ---
+<!-- _class: title-slide -->
 
-![bg cover](images/image69.jpeg)
+![bg cover brightness:0.5](images/image69.jpeg)
 
 # SMART CITY DATA COLLECTOR
-### Introduction & Kickoff • Rotterdam, 2026
+<p>Introduction & Kickoff • Rotterdam, 2026</p>
 
 ---
 
@@ -34,8 +35,9 @@ During this project, you will transform from a designer into a hardware hacker a
 > **The Goal:** Use real environmental data to create an interactive or graphic design that tells a story about the city.
 
 ---
+<!-- _class: chapter -->
 
-![bg cover](images/image76.jpeg)
+![bg cover brightness:0.5](images/image76.jpeg)
 
 # 1. THE HARDWARE
 
@@ -68,8 +70,9 @@ Choose the sensors that fit your concept!
 </div>
 
 ---
+<!-- _class: chapter -->
 
-![bg cover](images/image80.jpeg)
+![bg cover brightness:0.5](images/image80.jpeg)
 
 # 2. THE SOFTWARE
 
@@ -101,8 +104,9 @@ You don't need to write complex math or C++ yourself. We have built a web portal
 </div>
 
 ---
+<!-- _class: chapter -->
 
-![bg cover](images/image69.jpeg)
+![bg cover brightness:0.5](images/image69.jpeg)
 
 # 3. FIELDWORK & DATA
 
@@ -126,7 +130,8 @@ The raw data rolls out perfectly usable: in degrees Celsius, percentages, and ce
 
 <div>
 
-![width:100% rounded](images/image21.png)
+
+<img class="animate__animated animate__rotateIn animate__slow" width="400" src="images/image21.png" />
 
 </div>
 
@@ -146,5 +151,6 @@ The data you download is immediately "Design Ready". No complex data cleaning is
 Let the numbers drive the design!
 
 ---
+<!-- _class: closing -->
 
 # LET'S GO! ANY QUESTIONS?
